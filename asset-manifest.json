@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProjetoLoja/static/css/main.a7b25df9.chunk.css",
-    "main.js": "/ProjetoLoja/static/js/main.b81e2c3e.chunk.js",
-    "main.js.map": "/ProjetoLoja/static/js/main.b81e2c3e.chunk.js.map",
+    "main.js": "/ProjetoLoja/static/js/main.712d052f.chunk.js",
+    "main.js.map": "/ProjetoLoja/static/js/main.712d052f.chunk.js.map",
     "runtime-main.js": "/ProjetoLoja/static/js/runtime-main.6ed6d38e.js",
     "runtime-main.js.map": "/ProjetoLoja/static/js/runtime-main.6ed6d38e.js.map",
-    "static/js/2.0459f742.chunk.js": "/ProjetoLoja/static/js/2.0459f742.chunk.js",
-    "static/js/2.0459f742.chunk.js.map": "/ProjetoLoja/static/js/2.0459f742.chunk.js.map",
+    "static/js/2.8dbdc5e0.chunk.js": "/ProjetoLoja/static/js/2.8dbdc5e0.chunk.js",
+    "static/js/2.8dbdc5e0.chunk.js.map": "/ProjetoLoja/static/js/2.8dbdc5e0.chunk.js.map",
     "index.html": "/ProjetoLoja/index.html",
     "static/css/main.a7b25df9.chunk.css.map": "/ProjetoLoja/static/css/main.a7b25df9.chunk.css.map",
-    "static/js/2.0459f742.chunk.js.LICENSE.txt": "/ProjetoLoja/static/js/2.0459f742.chunk.js.LICENSE.txt",
+    "static/js/2.8dbdc5e0.chunk.js.LICENSE.txt": "/ProjetoLoja/static/js/2.8dbdc5e0.chunk.js.LICENSE.txt",
     "static/media/ItemFour.c4218033.png": "/ProjetoLoja/static/media/ItemFour.c4218033.png",
     "static/media/ItemOne.474e292e.png": "/ProjetoLoja/static/media/ItemOne.474e292e.png",
     "static/media/ItemThree.5197d8e5.png": "/ProjetoLoja/static/media/ItemThree.5197d8e5.png",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6ed6d38e.js",
-    "static/js/2.0459f742.chunk.js",
+    "static/js/2.8dbdc5e0.chunk.js",
     "static/css/main.a7b25df9.chunk.css",
-    "static/js/main.b81e2c3e.chunk.js"
+    "static/js/main.712d052f.chunk.js"
   ]
 }
