@@ -4,6 +4,7 @@ import ProdutoInfos from '../components/ProdutoInfos';
 
 function Produto(){
     let {id} = useParams();
+    window.scrollTo({top:0});
     return(
       <div>
         <Header/>
