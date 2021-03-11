@@ -1,15 +1,14 @@
-import {ShopArea,Item,ItemImage,ItemInfo,ItemName,ItemPrice,AddToCart} from '../components/styledShop';
-import {useHistory} from 'react-router-dom';
+import {ShopArea,Item,ItemImage,ItemInfo,ItemName,ItemPrice,AddToCart, LinkProdutos} from '../components/styledShop';
+import uuid from 'react-uuid';
 
 function Shop(props){
   var arrayImages = props.images;
-  const history = useHistory();
-
 
   return(
     <ShopArea>
       {props.produtos.map((data,key)=>{
-        return <Item>
+        var url = `/produto/${data.id}`;
+        return <Item key={uuid()}>
           <ItemImage src = {arrayImages[data.id-1]} />
           <ItemInfo>
             <ItemName>
@@ -19,7 +18,7 @@ function Shop(props){
               {(data.price).toUpperCase()}
             </ItemPrice>
             <AddToCart>
-              Ver Produto
+              <LinkProdutos to={url}>Ver Produto</LinkProdutos>
             </AddToCart>
           </ItemInfo>
         </Item>;

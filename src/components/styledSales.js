@@ -28,8 +28,11 @@ export const ButtonSale = styled.a`
 export const SaleInfoDiv = styled.div`
     height: 0rem;
     width: 100%;
+    bottom:0;
+    right:0;
+    left:0;
     background-color: #8C0303;
-    position:relative;
+    position:absolute;
     z-index:0;
     display:flex;
     opacity: 0;
@@ -100,8 +103,7 @@ export const SalesField = styled.div`
   width: ${props => props.width};
   background-color: ${props => props.color};
   margin-top: ${props => props.marginTop};
-
-  align-self: center;
+  position:relative;
   justify-self: ${props => props.justify};
 
   @media(max-width: 1024px){

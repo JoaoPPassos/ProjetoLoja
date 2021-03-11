@@ -7,10 +7,12 @@ import Produto from './pages/Produto';
 import {BrowserRouter, Switch, Route} from 'react-router-dom'
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path='/' exact={true} component={Home}/>
-        <Route path='/produto ' exact={true} component={Produto}/>
+        <Route path='/produto/:id' exact={true} component={Produto}>
+          <Produto/>
+        </Route>
       </Switch>
     </BrowserRouter>,
   document.getElementById('root')

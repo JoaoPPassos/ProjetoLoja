@@ -1,6 +1,7 @@
 import logo from '../images/LogoTL.png';
 import cart from '../images/Icon feather-shopping-bag.png'
 import {ComponentHeader,Menu,One,Two,Three,Logo,Image, ShoppingCart, CartImage} from '../components/styledHeader';
+import {Link} from 'react-router-dom';
 
 function Header(props){
   return(
@@ -11,7 +12,9 @@ function Header(props){
         <Three/>
       </Menu>
       <Logo>
-        <Image src={logo} alt="logo"/>
+        <Link to='/'>
+          <Image src={logo} alt="logo"/>
+        </Link>
       </Logo>
 
       <ShoppingCart>

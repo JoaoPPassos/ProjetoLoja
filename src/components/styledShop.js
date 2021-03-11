@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import {Link} from 'react-router-dom';
 
 export const ShopArea = styled.div`
   height: auto;
@@ -18,8 +19,12 @@ export const ItemImage= styled.img`
 `;
 
 export const ItemInfo = styled.div`
-  height: 2rem;
+  height: 0rem;
   width: 100%;
+  position: absolute;
+  bottom:0;
+  right:0;
+  left: 0;
   background-color: black;
   transition: ease 0.3s;
   opacity: 0;
@@ -32,7 +37,6 @@ export const ItemPrice = styled.h4`
   height:auto;
   width: 100%;
   color: white;
-  margin-left: 10px;
 `;
 
 export const ItemName = styled.h3`
@@ -53,6 +57,23 @@ export const AddToCart = styled.button`
   height: 5rem;
   width: 20rem;
   margin-left: 20%;
+
+  &:hover{
+    cursor: pointer;
+  }
+`;
+
+export const LinkProdutos = styled(Link)`
+  font-family:'Roboto', sans-serif;
+  font-size:18px;
+  text-decoration:none;
+  color: black;
+  transition: 0.4s;
+
+  &:hover{
+    color: green;
+    font-size: 20px;
+  }
 `;
 
 export const Item = styled.div`
@@ -60,11 +81,11 @@ export const Item = styled.div`
   width: 35rem;
   justify-self: center;
   border: 2px solid grey;
-  
+  position: relative;
+
   &:hover{
     ${ItemInfo}{
-      top: 0%;
-      height: 17rem;
+      height: 20rem;
       opacity: 0.75;
     }
 
