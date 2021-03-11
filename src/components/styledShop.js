@@ -21,6 +21,7 @@ export const ItemImage= styled.img`
 export const ItemInfo = styled.div`
   height: 0rem;
   width: 100%;
+  overflow:hidden;
   position: absolute;
   bottom:0;
   right:0;
@@ -82,7 +83,7 @@ export const Item = styled.div`
   justify-self: center;
   border: 2px solid grey;
   position: relative;
-
+  
   &:hover{
     ${ItemInfo}{
       height: 20rem;

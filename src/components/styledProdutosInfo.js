@@ -24,6 +24,7 @@ export const Description = styled.div`
   border-radius: 10px;
   border: 2px solid grey;
   margin-bottom: 20px;
+  padding-left: 20px;
   h2{
     font-family:'roboto',sans-serif;
     text-align: center; 
@@ -75,6 +76,7 @@ export const List = styled.div`
   width: auto;
   display:flex;
   flex-direction: row;
+  padding-left: 20px;
 `;
 
 export const BuyButton = styled.button`
@@ -90,6 +92,7 @@ export const BuyButton = styled.button`
   font-family: 'roboto',sans-serif;
   font-size: 22px;
   transition: 0.6s;
+  cursor:pointer;
 
   &:hover{
     border: 2px solid black;
