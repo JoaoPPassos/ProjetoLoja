@@ -1,0 +1,136 @@
+[
+  {
+    "id":1,
+    "type": "Bermuda",
+    "name":"BERMUDA MASCULINA DE TRILHA MH100",
+    "price": "R$ 40,99",
+    "description": "Desenvolvido para o praticante de CAMINHADA em montanha principiante que aprecia calções leves e respiráveis.",
+    "image": "../images/Items/Bermuda/bermuda 1.png"
+  },{
+    "id":2,
+    "type": "Bermuda",
+    "name":"BERMUDA TACTEL HOLLISTER MASCULINA",
+    "price": "R$ 224,99",
+    "description": "Bermuda Hollister de confecção Longboard Fit e nome modelo Hollister Epic Flex Cali Longboard sua composição é 90% poliéster e 10% elastano. Detalhes são: ESTAMPADO no logotipo da HOLLISTER, 3 bolsos ,2 frontais e 1 traseiro.",
+    "image": "../images/Items/Bermuda/bermuda 2.png"
+  },{
+    "id":3,
+    "type": "Bermuda",
+    "name":"BERMUDA MOLETOM DALCOMUNI MESCLA",
+    "price": "R$ 112,99",
+    "description": "BERMUDA MOLETOM DALCOMUNI MESCLA",
+    "image": "../images/Items/Bermuda/bermuda 3.png"
+  },{
+    "id":4,
+    "type": "Bermuda",
+    "name":"BERMUDA NIKE MASCULINA FT. CLUB CAMO CAMUFLADO",
+    "price": "R$ 128,99",
+    "description": "Para você que curte compor looks mais despojados, a Bermuda Nike Masculina Ft. Club Camo Camuflado irá valorizar ainda mais o seu estilo. A estampa camuflada está super em alta nas confecções, portanto vista-se com esta peça que além de proporcionar um visual moderno, traz excelente conforto e leveza para você curtir ótimos momentos. A bermuda também destaca-se pela logo em evidência na perna e conta com bolsos nas laterais e parte traseira, que favorece mais praticidade na peça.",
+    "image": "../images/Items/Bermuda/bermuda 4.png"
+  },{
+    "id":5,
+    "type": "Bermuda",
+    "name":"BERMUDA DE CICLISMO BARBEDO TIME BRASIL ESTAMPADA",
+    "price": "R$ 144,50",
+    "description": "Time Brasil é a marca dos atletas brasileiros. É a equipe que representa uma nação formada por mais de 200 milhões de torcedores. O Time Brasil é a união de todas as modalidades esportivas, a paixão pelo esporte e o orgulho de competir com garra e determinação pelo nosso país. É o ponto de encontro entre atletas e torcedores, que vibram juntos, formando um único time.",
+    "image": "../images/Items/Bermuda/bermuda 5.png"
+  },{
+    "id":6,
+    "type": "Bone",
+    "name":"Boné Fé Aba Curva Trucker Preto",
+    "price": "R$ 49,90",
+    "description": "O Boné Fé Trucker  Preto  é ideal para quem precisa de um boné básico para o dia a dia. Possui em sua parte traseira a famosa telinha, que proporciona mais conforto, uma vez que permite a passagem de ar não esquentando tanto a cabeça.",
+    "image": "../images/Items/Bonés/bone 1.png"
+  },{
+    "id":7,
+    "type": "Bone",
+    "name":"Boné Liso Aba Curva Anth Co Tela Branco/Bordô",
+    "price": "R$ 68,00",
+    "description": "O Boné Trucker Anth Co Branco/Bordô é ideal para quem precisa de um boné básico para o dia a dia. Além disto pode ser utilizado para quem procura um boné para personalizar, pois sua parte frontal lisa proporciona espaço ideal para quem quer bordar sua logomarca, ou até mesmo estampá-la.",
+    "image": "../images/Items/Bonés/bone 2.png"
+  },{
+    "id":8,
+    "type": "Bone",
+    "name":"Boné americano de telinha e helanca",
+    "price": "R$ 59,90",
+    "description": "Boné americano de telinha nas laterais e traseiros. frontal e aba em helanca, silk screen no frontal centralizado em médio relevo, possui ajuste de tamanho, quatro costuras na aba, revestimento frontal espuma e forro.",
+    "image": "../images/Items/Bonés/bone 3.png"
+  },{
+    "id":9,
+    "type": "Bone",
+    "name":"Bonés Militares de Algodão Lavado",
+    "price": "R$ 75,99",
+    "description": "O chapéu é feito por materia de algodão lavado vintage e durável, macio e respirável.",
+    "image": "../images/Items/Bonés/bone 4.png"
+  },{
+    "id":10,
+    "type": "Bone",
+    "name":"Boné Aba Curva Snapback Anth Co Top Preto",
+    "price": "R$ 68,00",
+    "description": "O Boné Anth Co Top Preto é composto por 98%Poliéster e 2% Elastano, confeccionado em tecido de qualidade e as costuras reforçadas garantem maior durabilidade. Conta ainda com pequenos furos para circulação de ar proporcionando conforto para toda hora.",
+    "image": "../images/Items/Bonés/bone 5.png"
+  },{
+    "id":11,
+    "type": "Bone",
+    "name":"Boné Bordado Mulher Maravilha Aba Reta",
+    "price": "R$ 79,90",
+    "description": "O Boné Bordado Mulher Maravilhal Super aba reta é um produto original, licenciado e exclusivo Piticas. Para colecionar e usar, feita pelos nossos nerdsigners para vestir seu lado fã!",
+    "image": "../images/Items/Bonés/bone 6.png"
+  },{
+    "id":12,
+    "type": "Camisa",
+    "name":"Camiseta Estampada The Walking Dead",
+    "price": "R$ 69,19",
+    "description": "Camisetas Estampadas Bonitas Elásticas do The Walking Dead Moda Verão Camiseta Estampada The Walking Dead Básica Moda Casual Fashion Masculina.",
+    "image": "../images/Items/Camisas/camisa 2.png"
+  },{
+    "id":13,
+    "type": "Camisa",
+    "name":"CAMISETA ESTAMPADA 100% ALGODÃO PENTEADA",
+    "price": "R$ 83,40",
+    "description": "Camiseta Estampada de alta qualidade e maciez, visando sempre buscar o maior conforto para o usuário.",
+    "image": "../images/Items/Camisas/camisa 3.png"
+  },{
+    "id":14,
+    "type": "Camisa",
+    "name":"CAMISETA ESTAMPADA CAVEIRA 3D PRAIAR",
+    "price": "R$ 59,90",
+    "description": "Também conhecida por “T-shirt”, na cor preta, sinônimo de modernidade e exclusividade. Tem a estampa mais descolada da internet. Com ela você vai chamar atenção por onde passar.",
+    "image": "../images/Items/Camisas/camisa 2.png"
+  },{
+    "id":15,
+    "type": "Sapato",
+    "name":"SAPATO SOCIAL GOFER PRETO OURO COURO VERNIZ",
+    "price": "R$ 219,99",
+    "description": "Sapato social Gofer Ref 0752A, confeccionado em couro Verniz. Conta com elásticos nas laterais. Traz aplique em metal na região acima da gáspea. Apresenta textura por todo modelo, além de pespontos e recortes.  Oferece forro em PU confortável, já a palmilha é macia. Enquanto o solado é em borracha.",
+    "image": "../images/Items/Sapatos/sapato 1.png"
+  },{
+    "id":16,
+    "type": "Sapato",
+    "name":"Sapato Social Masculino em Couro Detalhes em Verniz",
+    "price": "R$ 199,99",
+    "description": "O Sapato Social Calvest é confeccionado em couro com detalhes em verniz, que proporciona elegância e estilo ao modelo. Elásticos nas laterais facilitam o calce. Uma fivela dourada garante o estilo único do calçado. O forro em P.U e a palmilha confortável proporcionam todo o conforto para os pés. Já o solado em borracha oferece segurança e estabilidade ao caminhar.",
+    "image": "../images/Items/Sapatos/sapato 2.png"
+  },{
+    "id":17,
+    "type": "Sapato",
+    "name":"Tênis de Caminhada Leve Confortável",
+    "price": "R$ 79,90",
+    "description": "Trazendo o conceito de Tênis-Meia em seu cabedal, o Sneakertraz em sua composição o material têxtil e solado em PVC micro expandido antiderrapante, que proporciona leveza e seguraça. O modelo conta também com fechamento em cadarço e forro em espuma, garantindo agilidade e comodidade nas atividades do dia a dia.",
+    "image": "../images/Items/Sapatos/sapato 3.png"
+  },{
+    "id":18,
+    "type": "Sapato",
+    "name":"tênis feminino actvitta esportivo em nylon",
+    "price": "R$ 99,40",
+    "description": "Tênis feminino desenvolvido em nylon. O modelo possui fechamento por cadarço. O solado é translúcido e tem a tecnologia com a incrível sensação de estar pisando em cápsulas de gel.",
+    "image": "../images/Items/Sapatos/sapato 4.png"
+  },{
+    "id":19,
+    "type": "Sapato",
+    "name":"Tênis Feminino Milano Lurex Preto/Branco",
+    "price": "R$ 119,99",
+    "description": "Tênis com visual esportivo, solado flatform médio branco com a palavra BELIEVE – (acredito) em inglês, em relevo e tira em cortiça natural, cabedal em Knit (tricô tecnológico), com detalhe em courino no calcanhar e gola da cor do tênis. #Acredite você pode mais!",
+    "image": "../images/Items/Sapatos/sapato 5.png"
+  }
+]
